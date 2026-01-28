@@ -1,0 +1,5 @@
+{
+  "name": "SymptoCure",
+  "description": "A smart symptom assistant providing age-appropriate medication guidance and health information.",
+  "requestFramePermissions": []
+}
